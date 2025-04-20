@@ -9,3 +9,5 @@ langchain_community
 langchain_openai
 langchain_experimental
 -e .
+pinecone-client
+requests
